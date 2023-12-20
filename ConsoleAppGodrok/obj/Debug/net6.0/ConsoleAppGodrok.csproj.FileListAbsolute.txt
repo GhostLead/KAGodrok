@@ -1,0 +1,15 @@
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\bin\Debug\net6.0\ConsoleAppGodrok.exe
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\bin\Debug\net6.0\ConsoleAppGodrok.deps.json
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\bin\Debug\net6.0\ConsoleAppGodrok.runtimeconfig.json
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\bin\Debug\net6.0\ConsoleAppGodrok.dll
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\bin\Debug\net6.0\ConsoleAppGodrok.pdb
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\ConsoleAppGodrok.csproj.AssemblyReference.cache
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\ConsoleAppGodrok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\ConsoleAppGodrok.AssemblyInfoInputs.cache
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\ConsoleAppGodrok.AssemblyInfo.cs
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\ConsoleAppGodrok.csproj.CoreCompileInputs.cache
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\ConsoleAppGodrok.dll
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\refint\ConsoleAppGodrok.dll
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\ConsoleAppGodrok.pdb
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\ConsoleAppGodrok.genruntimeconfig.cache
+C:\Users\barizs.marton.daniel\source\repos\ConsoleAppGodrok\ConsoleAppGodrok\obj\Debug\net6.0\ref\ConsoleAppGodrok.dll
